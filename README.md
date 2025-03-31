@@ -36,8 +36,8 @@ Desktop <br>
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/challenges/bento-grid-RMydElrlOj)
+- Live Site URL: [here](https://fem-bento-grid-raysh3n.netlify.app/)
 
 ## My process
 
@@ -104,8 +104,9 @@ For the schedule social media image, used grid + max-width to achive the result 
 			max-width: 145%;
 		}
 	}
-
 ```
+
+
 
 
 
